@@ -1,5 +1,4 @@
-### Jenkinsfile - added Kubernetes Deployment - DEV Stage
-## replace  siddharth67 with your dockerhub username
+
 
 pipeline {
   agent any
